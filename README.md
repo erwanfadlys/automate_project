@@ -10,5 +10,7 @@ To create working system of office Automation
   </ul>
  <br></br>
  <h1>Advantages</h1>
+ <p>Removed the folder creation from system.</p>
+ <p>Feed back from the technician that such system is not compatible with how GP tool work as partial build often happens. </p>
  
  
