@@ -1,11 +1,4 @@
-# Work Order notification and Documentation automation
-
-<h3>Challanges in workplace</h3>
-<p>Working in an environment where targeted individual are resistant to changes due to matured experienced and refusal/hesitance towards technological changes. </p>
-<p><em>If it's working, don't change it</em> mentality.</p>
-<p>Traditional documentation require hardcopy proved to be unsustainable and leads to tons of paper to work with, require special storage to store such document as data rentention policy.</p> 
-<h3>Addressing the problem</h3>
-
+# automate_project
 To create working system of office Automation
 <h1>Populace</h1>
 <p>Assisting <strong>Geo Pilot Technician</strong> in documentation.</p>
