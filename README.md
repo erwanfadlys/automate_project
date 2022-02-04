@@ -62,8 +62,10 @@
     <p><tt>&emsp;&emsp;&emsp;&emsp;Automatically trigger notification from Outlook/Teams indicating work has done</tt></p>
     <p><tt>&emsp;&emsp;Compile in ZIP and copy into SAP</tt></p>
     <p><tt>End</tt></p>
+</p>
+  
 
-    <img src="/Images/Screenshot 2022-02-04 at 10.27.35 PM.png" height="500px" width="auto">
+<img src="/Images/Screenshot 2022-02-04 at 10.27.35 PM.png" height="500px" width="auto">
 
  <p>Feed back from the technician that such system is not compatible with how GP tool work as partial build often happens </p>
  
