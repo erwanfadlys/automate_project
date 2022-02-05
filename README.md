@@ -25,7 +25,7 @@
 <p>To counter these challange, I purpose an alternative solution which is Cloud base server that are readily available for Hal employee such as Microsoft SharePoint and OneDrive complemented with Kuwait RSS RNM PowerApps.</p>
 
 
-<h1>Onjective</h1>
+<h1>Objective</h1>
 <h2>To create working system of documentation Automation</h2>
 <p>By having an automated documentation control, the process of data capture can be delegated to the right person and proper identifiable folder structure.</p> <p>For example, in SharePoint, the document that were dropped from particular person will be displayed as<tt style="font-size:1.2em"> modified by</tt>.</p>
 <img src="/Images/Screenshot 2022-02-04 at 9.06.52 PM.png">
@@ -67,6 +67,6 @@
 
 <img src="/Images/Screenshot 2022-02-04 at 10.27.35 PM.png" height="500px" width="auto">
 
- <p>Feed back from the technician that such system is not compatible with how GP tool work as partial build often happens </p>
+<p>For more information, contact <a mailto="erwan.fadlys@gmail.com">erwan.fadlys@gmail.com.</a>
  
  
