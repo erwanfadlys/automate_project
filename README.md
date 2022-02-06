@@ -66,7 +66,7 @@
   
 
 <img src="/Images/Screenshot 2022-02-04 at 10.27.35 PM.png" height="500px" width="auto">
-
+<p>Will be updated from time to time.</p>
 <p>For more information, contact <a mailto="erwan.fadlys@gmail.com">erwan.fadlys@gmail.com.</a>
  
  
