@@ -56,7 +56,7 @@
     <p><tt>&emsp;&emsp;Main and sub Tech notified that the new work order created through Power Automate</tt></p>
     <p><tt>&emsp;&emsp;&emsp;&emsp;Tech work on that work order and drop through link generated from PowerApps</tt></p> 
     <p><tt>&emsp;&emsp;&emsp;&emsp;Automatically trigger notification from Outlook/Teams indicating work has done</tt></p>
-    <p><tt>SharePoint List updated with new value indicating the work has done</tt></p>
+    <p><tt>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;SharePoint List updated with new value indicating the work has done</tt></p>
     <p><tt>&emsp;&emsp;Main tech provide sub number and automate will extract document in PowerApps</tt></p>
     <p><tt>&emsp;&emsp;&emsp;&emsp;File name will be appended with folder string for uniformity through automate</tt></p>
     <p><tt>&emsp;&emsp;&emsp;&emsp;Automatically trigger notification from Outlook/Teams indicating work has done</tt></p>
