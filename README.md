@@ -66,7 +66,7 @@
   
 
 <img src="/Images/Screenshot 2022-02-04 at 10.27.35 PM.png" height="500px" width="auto">
-<p>I love to share how the apps work in real time. If you are HAL employee, hit me throguh teams or call me through H204617. Thanks!</p>
+<p>I love to share how the apps work in real time but unable to do so publicly. If you are HAL employee, hit me throguh teams or call me @ H204617. Thanks! </p>
 <p>For more information, contact <a mailto="erwan.fadlys@gmail.com">erwan.fadlys@gmail.com.</a>
  
  
